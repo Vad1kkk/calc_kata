@@ -80,7 +80,6 @@ func main() {
 		} else {
 			fmt.Println(arabRoman[res])
 		}
-
 	} else if t == 1 && s == 1 {
 		fmt.Println("Выдача паники, так как используются одновременно разные системы счисления.")
 	}
